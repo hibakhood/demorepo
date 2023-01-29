@@ -1,6 +1,5 @@
-# GITHUB REPO
 # My First Github Commit 
 This is my first github commit.
-Welcome aboard.
+    You are Welcome aboard.
 If you want to learn, please do.
-It's time
+It's time to enjoy this code base.
